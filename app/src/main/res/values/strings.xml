@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">REGISTER &amp; PLAY</string>
+    <string name="hint_mobile">Mobile no.</string>
+    <string name="text_mobile">You will receive an OTP for verification</string>
+    <string name="hint_email">Email address</string>
+    <string name="text_email">No spam. We promice !</string>
+    <string name="hint_password">Password</string>
+    <string name="text_password">Minimum 8 characters with 1 number/symbol</string>
+    <string name="button_register">REGISTER</string>
+    <string name="text_dream11">By registering, I agree to Dream11\'s</string>
+    <string name="text_tc">T &amp; cs</string>
+    <string name="text_or">OR</string>
+    <string name="text_code">Enter code?</string>
+    <string name="text_invite">Invited by a friend?</string>
+    <string name="text_toolbar">REGISTER &amp; PLAY</string>
+    <string name="btn_facebook">Facebook</string>
+    <string name="btn_google">Google</string>
+</resources>
